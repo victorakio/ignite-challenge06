@@ -1,0 +1,12 @@
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  color: #ffba08;
+}
+
+.swiper-container-horizontal > .swiper-pagination-bullets {
+  bottom: 40px;
+}
+
+.swiper-pagination-bullet-active {
+  background: #ffba08;
+}
